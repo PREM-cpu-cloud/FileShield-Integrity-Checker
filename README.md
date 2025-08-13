@@ -34,4 +34,4 @@ A powerful and simple tool to check file integrity using hashing techniques like
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/alokkumaar1/Integrity-Checker.git
+   git clone https://github.com/PREM-cpu-cloud/FileShield-Integrity-Checker
